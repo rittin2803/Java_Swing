@@ -1,2 +1,2 @@
 # Java_Swing
-A NFT Marketplace interface using Java Swing.
+A NFT Marketplace interface using Netbeans IDE.
